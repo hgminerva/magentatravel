@@ -172,13 +172,13 @@ hr.small {
 }
 
 
-/* Services */
+/* Packages */
 
-.services {
+.packages {
   padding: 50px 0;
 }
 
-.service-item {
+.package-item {
   margin-bottom: 30px;
 }
 
@@ -198,21 +198,21 @@ hr.small {
 }
 
 
-/* Portfolio */
+/* Terms */
 
-.portfolio {
+.terms {
   padding: 50px 0;
 }
 
-.portfolio-item {
+.term-item {
   margin-bottom: 30px;
 }
 
-.img-portfolio {
+.img-term {
   margin: 0 auto;
 }
 
-.img-portfolio:hover {
+.img-term:hover {
   opacity: .8;
 }
 
