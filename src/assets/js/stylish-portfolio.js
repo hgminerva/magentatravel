@@ -7,13 +7,6 @@
     $("#sidebar-wrapper").toggleClass("active");
   });
 
-  $('.truncated').hide()                       
-      .after('<a href="#term">more...</a>') 
-      .next().on('click', function(){          
-      $(this).toggleClass('icon-minus-sign')   
-          .prev().toggle();                    
-  });
-
   // Opens the sidebar menu
   $("#menu-toggle").click(function(e) {
     e.preventDefault();
