@@ -164,6 +164,77 @@ hr.small {
   background-size: cover;
 }
 
+.usf {
+  position: relative;
+  display: table;
+  width: 100%;
+  height: 80%;
+  background: url(../img/usf.jpg) no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.mexico {
+  position: relative;
+  display: table;
+  width: 100%;
+  height: 80%;
+  background: url(../img/mexico.jpg) no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.lasvegas {
+  position: relative;
+  display: table;
+  width: 100%;
+  height: 80%;
+  background: url(../img/lasvegas.jpg) no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.cottages {
+  position: relative;
+  display: table;
+  width: 100%;
+  height: 80%;
+  background: url(../img/cottages.jpg) no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.disney {
+  position: relative;
+  display: table;
+  width: 100%;
+  height: 80%;
+  background: url(../img/disney.jpg) no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.beach {
+  position: relative;
+  display: table;
+  width: 100%;
+  height: 80%;
+  background: url(../img/beach.jpg) no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 
 /* About */
 
