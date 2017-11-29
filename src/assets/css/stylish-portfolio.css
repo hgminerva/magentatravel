@@ -236,6 +236,30 @@ hr.small {
   background-size: cover;
 }
 
+.career {
+  position: relative;
+  display: table;
+  width: 100%;
+  height: 50%;
+  background: url(../img/career.jpg) no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.office {
+  position: relative;
+  display: table;
+  width: 100%;
+  height: 50%;
+  background: url(../img/office.jpg) no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 /* About */
 
 .about {
