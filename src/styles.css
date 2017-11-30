@@ -1,1 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
+
+.mynavbar {
+    background: rgba(255, 255, 255, 0.6);
+}
+
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+.transparent-button {
+    background-color: transparent;
+}
+
+.package-text
+{
+    font-weight: bold;
+    color: black
+}

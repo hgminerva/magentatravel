@@ -28,6 +28,17 @@ body {
   padding: 0;
 }
 
+.inlineList {
+  display: flex;
+  flex-direction: row;
+  /* Below sets up your display method: flex-start|flex-end|space-between|space-around */
+  justify-content: flex-start; 
+  /* Below removes bullets and cleans white-space */
+  list-style: none;
+  padding: 0;
+  /* Bonus: forces no word-wrap */
+  white-space: nowrap;
+}
 
 /* Custom Button Styles */
 
@@ -88,6 +99,7 @@ hr.small {
   margin: 0;
   padding: 0;
   list-style: none;
+  font-size: 70%;
 }
 
 .sidebar-nav li {
