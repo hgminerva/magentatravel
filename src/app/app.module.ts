@@ -11,6 +11,7 @@ import { AppComponentHome } from './app.component.home';
 import { TeamComponent } from './team/team.component';
 import { CareerComponent } from './career/career.component';
 import { PackagesComponent } from './packages/packages.component'; 
+import { PurchaseComponent } from './purchase/purchase.component'; 
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { PackagesComponent } from './packages/packages.component';
     AppComponentHome,
     TeamComponent,
     CareerComponent,
-    PackagesComponent
+    PackagesComponent,
+    PurchaseComponent
   ],
   imports: [
     BrowserModule,

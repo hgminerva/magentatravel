@@ -8,6 +8,7 @@ import { AppComponentHome } from './app.component.home';
 import { TeamComponent } from './team/team.component';
 import { CareerComponent } from './career/career.component';
 import { PackagesComponent } from './packages/packages.component';
+import { PurchaseComponent } from './purchase/purchase.component';
 
 const routes: Routes = [
     {
@@ -17,6 +18,10 @@ const routes: Routes = [
     {
         path: 'career',
         component: CareerComponent,
+    },
+    {
+        path: 'purchase',
+        component: PurchaseComponent,
     },
     {
         path: 'packages/:id',
